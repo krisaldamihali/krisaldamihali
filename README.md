@@ -4,7 +4,7 @@
 
 ![Header](https://capsule-render.vercel.app/api?type=waving&color=00f2fe&height=300&section=header&text=Krisalda%20Mihali&fontSize=70&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20•%20Software%20Engineer&descAlignY=60&descSize=25)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=00f2fe&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;From+Data+to+Deployment;AI+%2B+Software+Engineering;Continuous+Learning+%26+Innovation)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Outfit&weight=600&size=24&pause=1000&color=00f2fe&center=true&vCenter=true&width=600&lines=Building+Intelligent+Solutions;From+Data+to+Deployment;AI+%2B+Software+Engineering+%2B+Machine+Learning;Continuous+Learning+%26+Innovation)
 
 ---
 
